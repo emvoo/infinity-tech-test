@@ -1,0 +1,1 @@
+cd ~/go/src/infinity-tech-test && go build && go run infinity-tech-test
