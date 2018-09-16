@@ -1,0 +1,5 @@
+eventDatetime,eventAction,callRef,eventValue,eventCurrencyCode
+2018-01-05 09:42:38,test,12345,,
+2018-01-05 09:43:12,test,aaa,,
+2018-01-05 09:44:29,test,foo,123.00,GBP
+

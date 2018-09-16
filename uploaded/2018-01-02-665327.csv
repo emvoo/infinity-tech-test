@@ -1,0 +1,8 @@
+eventDatetime,eventAction,callRef,eventValue,eventCurrencyCode
+2018-01-02 10:27:36,sale,4536,100.00,GBP
+2018-01-02 11:28:54,sale,6257,240.49,GBP
+2018-01-02 11:48:23,lead,5328,0,GBP
+2018-01-02 13:11:17,sale,3826,100.00,GBP
+2018-01-02 15:37:42,sale,9872,100.00,GBP
+2018-01-02 16:42:12,lead,6271,0,GBP
+
